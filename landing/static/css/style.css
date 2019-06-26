@@ -1,0 +1,20 @@
+body{
+    margin:0;
+}
+
+nav{
+    height: 50px;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1{
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+a{
+    color: white;
+    
+}
